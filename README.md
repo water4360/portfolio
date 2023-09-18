@@ -1,12 +1,4 @@
-# 안녕하세요 신입 개발자 정수빈입니다 :)
-
-📧water4360@naver.com<br>
-
-학사 때 광고, 마케팅에 특화된 시각디자인 분야를 전공하였고<br>
-현재는 폴리텍대학(성남) 인공지능소프트웨어 학과에서<br>
-<b>풀스택 개발자 과정</b>(2023.3 ~ 현재)을 배우고 있습니다.<br>
-
-# **프 로 젝 트 이 력**
+## **프 로 젝 트 이 력**
 
 ### **오픈 뱅킹 웹페이지 (개인)**
 2023.06.17~07.03
@@ -52,7 +44,7 @@
 `OpenAPI` `JavaScript` `CSS` `Vue.js`
 
 - **GitHub Repository :** [Github-Movie](https://github.com/water4360/web-movie-details)
-- **GitHub Page :** [water4360.github.io/web-movie-details/](https://water4360.github.io/web-movie-details/)
+- **배포 웹페이지 :** [water4360.github.io/web-movie-details/](https://water4360.github.io/web-movie-details/)
 - OpenAPI를 활용한 상영예정영화 페이지
 - **세부기능**
     - [main] json 데이터 기반 무작위 영화예고편 재생
@@ -68,10 +60,10 @@
 `JavaScript` `JQuery` `CSS`
 
 - **GitHub Repository :** [Github-Game](https://github.com/water4360/web-haris-walk.git)
-- **GitHub Page :** [water4360.github.io/web-haris-walk/](https://water4360.github.io/web-haris-walk/)
+- **배포 웹페이지 :** [water4360.github.io/web-haris-walk/](https://water4360.github.io/web-haris-walk/)
 - JavaScript 미니게임
 - **세부기능**
-    - Key Event를 활용한 
+    - 키보드 조작형 캐릭터 게임
     - Hit box 설정을 통한 점수 획득, 조건 충족시 게임 클리어
  
 <hr>
@@ -88,6 +80,3 @@
     - MVC 패턴 적용
     - 사용자의 키보드 입력을 통한 도서 조회/검색, 대여/반납, 등록/수정/삭제 등
     - 공지사항 및 한줄형 게시글 등록
-
-
-
